@@ -22,7 +22,7 @@ export const SideNav = () => {
   return (
     <div className="fixed inset-y-0 left-0 w-64 bg-sidebar text-sidebar-foreground flex flex-col">
       <div className="p-4 border-b border-sidebar-border">
-        <h1 className="text-xl font-bold">Event Manager</h1>
+        <h1 className="text-xl font-bold">Event Management System</h1>
       </div>
       <nav className="flex-1 pt-4">
         <ul className="space-y-1 px-2">
